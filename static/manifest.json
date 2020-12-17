@@ -1,0 +1,19 @@
+{
+  "name": "vue-dock-menu",
+  "short_name": "vue-dock-menu",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#10c186",
+  "background_color": "#FFF"
+}

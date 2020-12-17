@@ -1,0 +1,40 @@
+{
+  "sidebar": [
+    {
+      "section": "Introduction",
+      "topics": [
+        {
+          "title": "Getting started",
+          "slug": "getting-started"
+        }
+      ]
+    },
+    {
+      "section":  "Guide",
+      "topics": [
+        {
+          "title": "Guide",
+          "slug": "guide"
+        }
+      ]
+    },
+    {
+      "section":  "Configuration",
+      "topics": [
+        {
+          "title": "Props",
+          "slug": "props"
+        }
+      ]
+    },
+    {
+      "section": "API",
+      "topics": [
+        {
+          "title": "Menu item model",
+          "slug": "menu-item-model"
+        }
+      ]
+    }
+  ]
+}
